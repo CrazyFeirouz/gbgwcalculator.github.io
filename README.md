@@ -2,13 +2,9 @@
 
 ## About
 
-This is a fork of the original [gbgwcalculator.github.io](https://github.com/gbgwcalculator/gbgwcalculator.github.io).
+This is a fork of Ryan Kane's [GBGW calculator fork](https://github.com/rmkane/gbgwcalculator.github.io).
 
-There have been many improvements:
-
-- Dark mode!
-- Additional filters
-- Full suite of GBGW font glyphs
+This is mostly my personal experimental version.
 
 ## Installation
 
@@ -29,7 +25,7 @@ For version history, please view the [change log](./CHANGELOG.md).
 
 ## Contributions
 
-* [AutoRiceCooker @ GitHub](https://github.com/autoricecooker)
+* [Ryan Kane @ GitHub](https://github.com/rmkane)
 * [Acylos @ Reddit](https://www.reddit.com/user/Acylos)
 * [SmilyT1 @ GamePress](https://gamepress.gg/user/684586)
 * And many others @ [GBGW: Newtype Labs](https://discord.gg/6aMUnBD)

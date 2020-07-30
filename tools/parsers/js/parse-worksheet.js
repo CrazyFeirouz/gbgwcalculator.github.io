@@ -49,7 +49,7 @@ const renderText = (key, data) => {
 
 const parsePart = (part, resultCache) => {
   if (part['Part Type'] === 'Pilot') { applyPilot(part, resultCache); return; }
-  if (part['Part Type'] === 'Head') applyUnit(part, resultCache);
+  if (part['Part Type'] === 'Head' || part['Part Type'] === 'Torso (+ Head)') applyUnit(part, resultCache);
   if (part['EX/TRAIT'] === 'EX') applySkill(part, resultCache);
   applyPart(part, resultCache);
 };
